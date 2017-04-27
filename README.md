@@ -1,1 +1,1 @@
-echo # Java-Practice
+Greedy Snake Practice
